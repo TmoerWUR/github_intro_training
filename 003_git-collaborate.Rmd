@@ -134,7 +134,7 @@ Also, we would like to mention again that if you want to keep complete control o
 
 ### Github tokens
 
-First of all, there is security of github itself. Anyone using github in a data analysis workflow probably interacts with the Github API. In whch case you need a personall access token. You can get them from github.com under settings, see [here](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+First of all, there is the security of github itself. Anyone using github in a data analysis workflow probably interacts with the Github API. In whch case you need a personall access token. You can get them from github.com under settings, see [here](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 GitHub tokens are access credentials that serve as a secure way to authenticate and interact with the GitHub API. The purpose of GitHub tokens is to provide users with way to programmatically access and manipulate GitHub repositories without exposing your password. 
 
